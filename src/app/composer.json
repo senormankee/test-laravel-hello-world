@@ -1,0 +1,7 @@
+{
+    "name": "your-vendor/your-project",
+    "description": "A simple Hello World PHP project",
+    "require": {
+        "php": "^7.4"
+    }
+}
